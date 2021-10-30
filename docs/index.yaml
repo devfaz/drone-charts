@@ -3,10 +3,9 @@ entries:
   drone:
   - apiVersion: v1
     appVersion: 1.9.0
-    created: "2021-07-27T09:31:36.886980027Z"
-    description: Drone is a self-service Continuous Delivery platform for busy development
-      teams
-    digest: 03ec28dceb2715af72cb944a0e167f027b996b13dc7510d4d4969203c57b7674
+    created: "2021-10-30T17:37:24.967481307+02:00"
+    description: Drone is a self-service Continuous Delivery platform for busy development teams
+    digest: cb94b66ffe18e686c003b41a5a59f6b24493a8f146ca8642b1783b7b721c9a23
     home: https://drone.io/
     icon: https://drone.io/apple-touch-icon.png
     keywords:
@@ -26,13 +25,12 @@ entries:
     - https://github.com/drone/drone
     - https://github.com/drone/helm
     urls:
-    - https://charts.drone.io/drone-0.1.7.tgz
+    - https://devfaz.github.io/drone-charts/drone-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v1
     appVersion: 1.8.1
     created: "2020-06-28T14:33:59.142662573Z"
-    description: Drone is a self-service Continuous Delivery platform for busy development
-      teams
+    description: Drone is a self-service Continuous Delivery platform for busy development teams
     digest: 3512234586875bc0b94dfd771601d6702f7516dbe6884aac5878e3390f92e312
     home: https://drone.io/
     icon: https://drone.io/apple-touch-icon.png
@@ -58,8 +56,7 @@ entries:
   - apiVersion: v1
     appVersion: 1.6.5
     created: "2020-03-20T00:11:25.136696158Z"
-    description: Drone is a self-service Continuous Delivery platform for busy development
-      teams
+    description: Drone is a self-service Continuous Delivery platform for busy development teams
     digest: 20da2e54c3ccb11292a554604e7650b797cf5f284fd1382a08e621ca78039206
     home: https://drone.io/
     icon: https://drone.io/apple-touch-icon.png
@@ -85,8 +82,7 @@ entries:
   - apiVersion: v1
     appVersion: 1.6.5
     created: "2020-02-20T17:08:38.210171434Z"
-    description: Drone is a self-service Continuous Delivery platform for busy development
-      teams
+    description: Drone is a self-service Continuous Delivery platform for busy development teams
     digest: e9496237784a783e4fbbf965224b164808a64cbba4e3c49b906dc93f23a6b329
     home: https://drone.io/
     icon: https://drone.io/apple-touch-icon.png
@@ -112,9 +108,9 @@ entries:
   drone-kubernetes-secrets:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-07-27T09:31:36.888929884Z"
+    created: "2021-10-30T17:37:24.967947083+02:00"
     description: A Kubernetes Secrets extension for Drone
-    digest: 289f75130d02fb0b91daf12bed47f04bd0f9d02f1f45cb5c673602779ffe2e86
+    digest: 1d7c67cd306cd41579a85f2214b5a0fd3baa2f18646ac7310088b86ebb244b55
     home: https://github.com/drone/drone-kubernetes-secrets
     icon: https://drone.io/apple-touch-icon.png
     keywords:
@@ -134,7 +130,7 @@ entries:
     - https://github.com/drone/drone-kubernetes-secrets
     - https://github.com/drone/helm
     urls:
-    - https://charts.drone.io/drone-kubernetes-secrets-0.1.1.tgz
+    - https://devfaz.github.io/drone-charts/drone-kubernetes-secrets-0.1.1.tgz
     version: 0.1.1
   - apiVersion: v1
     appVersion: 1.0.0
@@ -165,9 +161,9 @@ entries:
   drone-runner-kube:
   - apiVersion: v1
     appVersion: 1.0.0
-    created: "2021-07-27T09:31:36.889825439Z"
+    created: "2021-10-30T17:37:24.96847182+02:00"
     description: The Drone Kubernetes runner launches builds in Kubernetes Jobs
-    digest: 46b36f97519d2de5f78315c3a34edd0f9a8da4de1811a09f6d1ca68d8b0ff095
+    digest: 04d2001a3ab4e12d528c28c6df193835a497cda09420918dc0814f7a1327a454
     home: https://kube-runner.docs.drone.io/
     icon: https://drone.io/apple-touch-icon.png
     keywords:
@@ -187,7 +183,7 @@ entries:
     - https://github.com/drone-runners/drone-runner-kube
     - https://github.com/drone/helm
     urls:
-    - https://charts.drone.io/drone-runner-kube-0.1.5.tgz
+    - https://devfaz.github.io/drone-charts/drone-runner-kube-0.1.5.tgz
     version: 0.1.5
   - apiVersion: v1
     appVersion: 1.0.0
@@ -267,4 +263,4 @@ entries:
     urls:
     - https://charts.drone.io/drone-runner-kube-0.1.2.tgz
     version: 0.1.2
-generated: "2021-07-27T09:31:36.885775452Z"
+generated: "2021-10-30T17:37:24.966725844+02:00"
